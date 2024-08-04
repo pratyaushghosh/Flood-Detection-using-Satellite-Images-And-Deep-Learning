@@ -50,34 +50,6 @@ Pre-processing steps include cleaning and transforming the dataset, removing emp
 
 The models are trained and evaluated on the cleaned dataset, achieving significant improvements in flood detection accuracy through the fusion of S1 and S2 data.
 
-## How to Use
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/pratyaushghosh/Flood-Detection-using-Satellite-Images-And-Deep-Learning.git
-    cd flood-detection-multisensor
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the pre-processing script**:
-    ```bash
-    python pre_processing.py
-    ```
-
-4. **Train the model**:
-    ```bash
-    python train_model.py
-    ```
-
-5. **Evaluate the model**:
-    ```bash
-    python evaluate_model.py
-    ```
-
 ## Contributing
 
 We welcome contributions to improve this project. Please fork the repository and create a pull request with your changes.
