@@ -54,7 +54,7 @@ The models are trained and evaluated on the cleaned dataset, achieving significa
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/flood-detection-multisensor.git
+    git clone https://github.com/pratyaushghosh/Flood-Detection-using-Satellite-Images-And-Deep-Learning.git
     cd flood-detection-multisensor
     ```
 
